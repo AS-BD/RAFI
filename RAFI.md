@@ -6,7 +6,7 @@
 + ```apt-get upgrade -y```
 + ```apt-get install git -y```
 + ```apt-get install python -y```
-+ ```git clone https://github.com/AS-BD/RAFI```
++ ```git clone https://github.com/RAFI```
 + ```cd RAFI```
 + ```git pull```
 + ```python RAFI.py```

@@ -1,5 +1,6 @@
 # RAFI 
 ## Installation:
+## Installation:
 + Following are the complete installation commands, Enter all commands one by one in your terminal
 + ```apt-get update -y```
 + ```apt-get upgrade -y```
@@ -8,4 +9,4 @@
 + ```git clone https://github.com/AS-BD/RAFI```
 + ```cd RAFI```
 + ```git pull```
-+ ```python CSBDGIFT.py```
++ ```python RAFI.py```
